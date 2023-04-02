@@ -27,4 +27,11 @@
 | ⤷ | - O preço total do produto comprado; |
 | ⤷ | - O valor do imposto, sabendo-se que o imposto é cobrado sobre o preço total do produto comprado e que depende do país de origem; |
 | ⤷ | - O valor total, preço total do produto mais imposto; |
-| `23` |  |
+| `23` | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M - Matutino, V - Vespertino ou N - Noturno), a categoria (O - Operário, G - Gerente) e o número de horas trabalhadas no mês de um funcionário. Supondo a digitação apenas de dados válidos e, quando houver digitação de letras, utilize letras maiúsculas. Calcule e mostre: |
+| ⤷ | - O coeficiente do salário;; |
+| ⤷ | - O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente do salário; |
+| ⤷ | - O imposto; |
+| ⤷ | - A gratificação; |
+| ⤷ | - O auxílio-alimentação; |
+| ⤷ | - O salário líquido; |
+| ⤷ | - A classificação; |
