@@ -8,7 +8,10 @@
 
 <div align=center>
 
-<img src = "https://media.discordapp.net/attachments/795515503773745152/1092882836245192815/TRABALHO_POO_-_N1.gif">
+
+<img width = 640 height = 320 src = "https://media.discordapp.net/attachments/795515503773745152/1092882836245192815/TRABALHO_POO_-_N1.gif">
+
+
 <div>
 
 
