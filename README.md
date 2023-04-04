@@ -7,8 +7,10 @@
 
 
 <div align=center>
-<img src = "https://user-images.githubusercontent.com/124710521/224388297-6bda0d56-b708-4f19-b748-4090cca57e54.gif">
+
+<img src = "https://media.discordapp.net/attachments/795515503773745152/1092882836245192815/TRABALHO_POO_-_N1.gif">
 <div>
+
 
   <h3 align="center">☕✨Exercícios em JAVA✨☕</h3>
   
