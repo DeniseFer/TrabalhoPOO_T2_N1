@@ -36,7 +36,7 @@
 -------------------------------------------------------------------------------
 
 
-<img width = 700 height = 400 src = "https://user-images.githubusercontent.com/125037138/230391731-fba49857-f54e-4eba-8d23-e771d8528e91.gif">
+<img width = 700 height = 360 src = "https://user-images.githubusercontent.com/125037138/230391731-fba49857-f54e-4eba-8d23-e771d8528e91.gif">
 
 <div>
 
