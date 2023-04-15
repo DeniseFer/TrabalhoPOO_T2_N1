@@ -72,10 +72,10 @@ public class Principal {
 			System.out.println("Digite o valor de seu salário:\n");
 			sal = sc.nextDouble();
 			
-			if(sal >= 700) {
+			if(sal > 700) {
 				System.out.println("Seu salário é Bem-remunerado.");
 			}
-			else if (sal < 700) {
+			else if (sal <= 700) {
 				System.out.println("Seu salário é Mal-remunerado.");
 
 			}
