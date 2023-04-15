@@ -10,7 +10,7 @@
 <div align=center>
 
 
-<img width = 640 height = 320 src = "https://media.discordapp.net/attachments/795515503773745152/1092882836245192815/TRABALHO_POO_-_N1.gif">
+<img width = 640 height = 320 src = "https://user-images.githubusercontent.com/124710521/230706085-67cb6a29-3967-4bb5-8dbf-a83f2bf296db.gif">
 
 
 <div>
@@ -36,9 +36,12 @@
 -------------------------------------------------------------------------------
 
 
-<img width = 640 height = 320 src = "https://media.discordapp.net/attachments/795515503773745152/1083926464782676008/ezgif-1-5436f49563.gif">
+<img width = 700 height = 400 src = "https://user-images.githubusercontent.com/125037138/230391731-fba49857-f54e-4eba-8d23-e771d8528e91.gif">
 
 <div>
+
+
+
 
 
 <h3 align = center>
