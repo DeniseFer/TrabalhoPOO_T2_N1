@@ -28,14 +28,14 @@ public class Principal {
 		System.out.println("===TURNO DE TRABALHO===");
 		System.out.println("(M) - Matutino\n(V) - Vespertino\n(N) - Noturno\n");
 		System.out.println("Digite a letra (em maiúsculo) que representa seu turno:\n");
-		turno = sc.next().charAt(0);
+		turno = sc.next().toUpperCase().charAt(0);
 		
 		// CATEGORIA
 		
 		System.out.println("===CATEGORIA===");
 		System.out.println("(O) - Operário\n(G) - Gerente\n");
 		System.out.println("Digite a letra (em maiúsculo) que representa sua categoria:\n");
-		categ = sc.next().charAt(0);
+		categ = sc.next().toUpperCase().charAt(0);
 						
 		
 				
