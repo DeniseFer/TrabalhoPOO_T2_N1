@@ -10,7 +10,7 @@
 <div align=center>
 
 
-<img width = 640 height = 320 src = "https://user-images.githubusercontent.com/124710521/230706085-67cb6a29-3967-4bb5-8dbf-a83f2bf296db.gif">
+<img width = 640 height = 360 src = "https://user-images.githubusercontent.com/124710521/230706085-67cb6a29-3967-4bb5-8dbf-a83f2bf296db.gif">
 
 
 <div>
