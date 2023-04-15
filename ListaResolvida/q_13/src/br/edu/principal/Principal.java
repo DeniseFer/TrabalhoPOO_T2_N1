@@ -83,7 +83,7 @@ public class Principal {
 			
 		}
 		
-		if ((op < 1) & (op > 3)) {
+		if ((op < 1) | (op > 3)) {
 			
 			System.out.println("Opção inválida.");
 		}
