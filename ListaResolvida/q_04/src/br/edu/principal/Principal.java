@@ -32,7 +32,7 @@ public class Principal {
 			}
 		}
 		
-		if ((num2 < num1) & (num2 < num3)){ //num2 sendo o menor
+		else if ((num2 < num1) & (num2 < num3)){ //num2 sendo o menor
 			if(num1 < num3) {
 				System.out.println("A ordem crescente é "+num2 +" - "+ num1+" - "+num3);	
 			}
@@ -41,7 +41,7 @@ public class Principal {
 			}
 		}
 		
-		if ((num3 < num1) & (num3 < num2)){ // num3 sendo o menor
+		else if ((num3 < num1) & (num3 < num2)){ // num3 sendo o menor
 			if(num1 < num2) {
 				System.out.println("A ordem crescente é "+num3 +" - "+ num1+" - "+num2);	
 			}
