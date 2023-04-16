@@ -9,6 +9,10 @@ public class Principal {
 		
 	System.out.println("Digite o valor do produto desejado: ");
 	double preçoProduto = sc.nextDouble();
+		
+	System.out.println("Digite o código do produto desejado: ");
+	int codProd = sc.nextInt();
+		
 	double desconto = 0;
 	
 	if (preçoProduto <= 30){
