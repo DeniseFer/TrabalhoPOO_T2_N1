@@ -27,6 +27,6 @@ public class Principal {
 	
 	double preçoComDesconto = preçoProduto - desconto;
 	System.out.println("=====RESULTADOS=====");
-	System.out.println("O preço atual do produto é: " + preçoProduto);
+	System.out.println("O preço atual do produto é: R$" + preçoProduto);
 	System.out.println("O valor do desconto é: " + desconto);
 	System.out.println("O preço do produto com desconto é: R$" + preçoComDesconto);}} 
