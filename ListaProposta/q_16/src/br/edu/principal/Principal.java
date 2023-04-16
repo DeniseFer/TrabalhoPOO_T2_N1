@@ -11,7 +11,7 @@ public class Principal {
 	double preçoProduto = sc.nextDouble();
 		
 	System.out.println("Digite o código do produto desejado: ");
-	int codProd = sc.nextInt();
+	double codProd = sc.nextDouble();
 		
 	double desconto = 0;
 	
